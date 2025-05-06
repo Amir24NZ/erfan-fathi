@@ -48,5 +48,5 @@
 
 ## ارتباط
 
-برای اطلاعات بیشتر می‌توانید با من از طریق [Instagram](https://www.instagram.com/0erfan1t_3) یا [GitHub](https://github.com/Amir24NZ) در تماس باشید.
+برای اطلاعات بیشتر می‌توانید با من از طریق [GitHub](https://github.com/Amir24NZ) در تماس باشید.
 
