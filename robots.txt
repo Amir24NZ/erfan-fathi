@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amir24nz.github.io/erfan-fathi/sitemap.xml
